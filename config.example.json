@@ -1,0 +1,30 @@
+{
+  "host": "0.0.0.0",
+  "port": 8789,
+  "node_name": "potato",
+  "media_root": "",
+  "allowed_folders": [],
+  "blocked_subfolders": [
+    "pictures",
+    "photos",
+    "music",
+    "personal",
+    "private",
+    "camera"
+  ],
+  "m3u_playlists": [
+    "playlists/example.m3u"
+  ],
+  "include_open_directory": true,
+  "enable_auto_discovery": true,
+  "custom_links": [
+    {
+      "name": "Internet Archive — Feature Films",
+      "url": "https://archive.org/details/feature_films",
+      "color": "#ffd166",
+      "badge": "CINEMA",
+      "desc": "Thousands of free public-domain feature films · archive.org"
+    }
+  ],
+  "ffmpeg_path": ""
+}

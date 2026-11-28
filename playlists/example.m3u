@@ -1,0 +1,22 @@
+#EXTM3U
+# POTATO — Verified Public / Creative Commons / Listener-Supported Sample Streams
+# 100% open & legal out-of-the-box streams. Upload or add your own M3U playlists in /setup!
+
+#EXTINF:-1 group-title="Open Cinema (CC-BY)",Blender Foundation — Sintel Trailer 720p (CC-BY)
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
+#EXTINF:-1 group-title="Open Cinema (CC-BY)",Blender Foundation — Tears of Steel 720p (CC-BY)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+#EXTINF:-1 group-title="Late-Night & Underground Radio (SomaFM)",SomaFM — Space Station Soma (Ambient Sci-Fi)
+https://ice1.somafm.com/spacestation-128-mp3
+#EXTINF:-1 group-title="Late-Night & Underground Radio (SomaFM)",SomaFM — Dark Zone (Deep Dark Ambient)
+https://ice1.somafm.com/darkzone-128-mp3
+#EXTINF:-1 group-title="Late-Night & Underground Radio (SomaFM)",SomaFM — Drone Zone (Atmospheric Deep Space)
+https://ice1.somafm.com/dronezone-128-mp3
+#EXTINF:-1 group-title="Late-Night & Underground Radio (SomaFM)",SomaFM — DEF CON Radio (Hacker & Tech Beats)
+https://ice1.somafm.com/defcon-128-mp3
+#EXTINF:-1 group-title="Late-Night & Underground Radio (SomaFM)",SomaFM — Secret Agent (Spy-Fi & Lounge)
+https://ice1.somafm.com/secretagent-128-mp3
+#EXTINF:-1 group-title="Open Radio (SomaFM)",SomaFM — Groove Salad (Ambient Chill)
+https://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 group-title="Open Radio (SomaFM)",SomaFM — Metal Detector (Heavy Underground)
+https://ice1.somafm.com/metal-128-mp3
